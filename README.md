@@ -14,6 +14,12 @@ By using **OUR** code, a mere piezoelectric speaker will loudly sing the gloriou
 
 **This is not "MY" code. It is "OUR" code.**
 
+### ☭ Virtual Training (Simulation)
+For comrades who have not yet received hardware rations, the Party has prepared a virtual training ground.
+You can execute Sovduino immediately in your browser.
+
+**[>> Enter the Virtual Training Ground (Tinkercad)](https://www.tinkercad.com/things/6IAwpwz2z5I-sovduino?sharecode=FV7dvHokvtdZcXwEPFnmwgkFbx2MmDszDcar8nQ9_U4)**
+
 ### Usage
 1. **Clone** this repository. (Read `git clone` as "Requisition")
 2. Open `Soviet_Anthem.ino` in the Arduino IDE.
@@ -40,6 +46,12 @@ This software allows anyone to use, modify, and distribute it for free. Knowledg
 我々のコードを使用することで、単なる圧電スピーカーが、祖国を称える栄光のファンファーレ（ソビエト連邦国歌）を高らかに歌い上げるだろう。
 
 **これは「私の」コードではない。「我々の」コードだ。**
+
+### ☭ 仮想演習 (Simulation)
+まだハードウェアの配給を受けていない同志のために、党は仮想空間上に演習場を用意した。
+ブラウザ上で直ちにSovduinoを実行可能である。
+
+**[>> 仮想演習場に入場せよ (Tinkercad)](https://www.tinkercad.com/things/6IAwpwz2z5I-sovduino?sharecode=FV7dvHokvtdZcXwEPFnmwgkFbx2MmDszDcar8nQ9_U4)**
 
 ### 使用方法 (Usage)
 1. このリポジトリをクローンせよ。（`git clone` は「徴収」と読み替えること）
